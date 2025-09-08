@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(){
-    char a[]="Virat";
-    char b[]="Apple";
-    char c[]="Rohan";
-    char d[]="Mango";
-    char e[]="Riya";
+    char a[]="Krrish";
+    char b[]="Rohit";
+    char c[]="Hardik";
+    char d[]="Vanshika";
+    char e[]="Vansh";
 char *arr[5]={a,b,c,d,e};
 
 
