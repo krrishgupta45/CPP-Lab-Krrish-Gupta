@@ -2,11 +2,11 @@
 int main()
 {
     char *arr[5] = {
-        "Yash",
-        "Vishnav",
+        "Krrish",
+        "Gupta",
         "Rohit",
-        "Mafia",
-        "Bunty"};
+        "Sharma",
+        "Vanshika"};
 
     for (int i = 0; i < 5; i++)
     {printf("%s\n",*(arr+i));
