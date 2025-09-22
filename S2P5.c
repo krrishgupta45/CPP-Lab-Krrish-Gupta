@@ -1,4 +1,4 @@
-#include <stdio.h>{
+#include <stdio.h>
 
 void transpose(int m, int n, int arr1[m][n]){
     int arr2[n][m];
