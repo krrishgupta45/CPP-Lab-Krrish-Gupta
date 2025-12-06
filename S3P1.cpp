@@ -22,8 +22,8 @@ class Student{
 int main(){
     Student S1,S2;
 
-    S1.getData(2,"Krishanav");
-    S2.getData(14,"Billu");
+    S1.getData(4,"Krrish");
+    S2.getData(16,"abc");
     S1.displayData();
     S2.displayData();
 
